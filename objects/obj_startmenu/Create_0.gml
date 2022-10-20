@@ -8,6 +8,7 @@ pos = 0;
 
 option[0] = "Start Game"
 option[1] = "Instructions"
-option[2] = "Quit Game"
+option[2] = "Credits"
+option[3] = "Quit Game"
 
 op_length = array_length(option)

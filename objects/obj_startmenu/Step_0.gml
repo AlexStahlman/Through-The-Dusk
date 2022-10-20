@@ -17,17 +17,22 @@ if(accept_key){
 	switch(pos){
 		//start
 		case 0: 
-		room_goto(3)
+		room_goto(5)
 		break;
 	
 		//instructions
 		case 1:
 		room_goto_next()
 		break;
-	
+		
+		//credits 
+		case 2: 
+		room_goto(2)
+		break;
+		
 		//quit
-		case 2:
+		case 3:
 		game_end()
-		break
+		break;
 	}
 }

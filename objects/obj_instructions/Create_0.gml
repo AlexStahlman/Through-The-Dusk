@@ -4,7 +4,7 @@ height = 100
 op_border = 8
 op_space = 16
 
-pos = 0;
+
 
 option[0] = "Instructions:"
 option[1] = "Arrow Keys To Move"
@@ -15,5 +15,7 @@ option[5] = "Alt+P = Toggle Lights"
 option[6] = "Alt+G = Game Restart"
 option[7] = "Alt+R = Room Restart"
 option[8] = "Return to Main Menu"
+
+pos = option[8];
 
 op_length = array_length(option)
