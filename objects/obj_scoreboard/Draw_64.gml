@@ -7,6 +7,6 @@ if instance_exists(obj_player){
 }
 if (global.game_over) {
 	draw_set_halign(fa_center)
-	draw_text(room_width / 2, room_height / 2, "You died to the corruption. Press R to Restart")
+	draw_text((room_width - room_width / 4), (room_height - room_height / 4), "You died to the corruption. Press R to Restart")
 }
 
