@@ -1,4 +1,4 @@
 /// @taking damage
 
-global.hp -= 25
+global.hp -= 20
 

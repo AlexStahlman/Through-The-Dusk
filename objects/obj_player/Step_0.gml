@@ -4,7 +4,7 @@ if(!keyboard_check(vk_left) and !keyboard_check(vk_right) and !keyboard_check(vk
 	sprite_index = spr_still
 }
 else{
-	if(global.fuel = 0){
+	if(global.fuel == 0){
 	sprite_index = spr_nolightrun
 	}	
 	else{
@@ -42,7 +42,10 @@ else{
 if(global.hp<100){
 	alarm[0] = 1
 }
-if(burnable_prompt=true){
-burnable_prompt=false	
+if(burnable_prompt==true){
+burnable_prompt=false
+}
+if(global.hp<=0){
+instance_destroy()	
 }
 

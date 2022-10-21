@@ -1,1 +1,1 @@
-instance_create_layer(x, y, 0, obj_netburn1)
+instance_create_layer(x, y, "Instances", obj_netburn1)
