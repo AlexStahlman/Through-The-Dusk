@@ -1,2 +1,2 @@
-global.font_main = font_add(GameFont, 32, true, false, 32, 128)
+global.font_main = font_add(GameFont, 1000, true, false, 32, 128)
 
