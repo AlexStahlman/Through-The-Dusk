@@ -1,2 +1,2 @@
-instance_create_layer(x, y, 0,obj_spikeballburn)
+instance_create_layer(x, y, "Instances",obj_spikeballburn)
 
