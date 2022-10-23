@@ -14,18 +14,18 @@ Through the Dusk
 
 
 CHEAT CODES:
-Alt+L = Unlimited Life/Fuel
-Alt+N = Next Stage
-Alt+P = Toggle Lights
-Alt+G = Game Restart
-Alt+R = Room Restart
+- Alt+L = Unlimited Life/Fuel
+- Alt+N = Next Stage
+- Alt+P = Toggle Lights And Godmode/Unlimited Fuel
+- Alt+G = Game Restart
+- Alt+R = Room Restart
 
 
 RULES:
-- Traverse the level avoiding enemy's
+- Traverse the level avoiding enemies
 - Use latern to burn objects at cost of fuel
 - Pickup fuel to replinish lantern
 - Health auto re-generates
 - On empty health/fuel you lose
 - Find the exit and move to the next stage
-- Win by escaping
+- Win by escaping the cave
