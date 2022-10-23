@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_epicdub",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_startmenu",
+    "path": "sprites/spr_startmenu/spr_startmenu.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

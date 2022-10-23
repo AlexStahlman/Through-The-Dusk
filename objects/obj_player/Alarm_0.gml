@@ -1,1 +1,1 @@
-global.hp += .05
+global.hp += .0025
