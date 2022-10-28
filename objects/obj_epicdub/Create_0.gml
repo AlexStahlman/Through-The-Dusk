@@ -17,3 +17,5 @@ pos = option[5];
 
 op_length = array_length(option)
 audio_stop_sound(snd_ambient)
+
+global.fuel = 100000

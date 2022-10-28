@@ -12,4 +12,10 @@ option[2] = "Credits"
 option[3] = "Quit Game"
 
 op_length = array_length(option)
-audio_play_sound(snd_music,2,true)
+
+if(audio_is_playing(snd_music))
+{
+	
+}else{
+	audio_play_sound(snd_music,2,true)
+}
